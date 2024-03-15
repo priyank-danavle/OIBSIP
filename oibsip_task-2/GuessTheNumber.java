@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * GuessTheNumber
+ * GuessTheNumber game
  */
 public class GuessTheNumber {
 
